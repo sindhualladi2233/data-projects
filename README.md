@@ -1,2 +1,2 @@
 # data-projects
-academic and practice project files
+project files
